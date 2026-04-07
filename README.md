@@ -22,10 +22,10 @@
 下方顯示照片區（畫面占比需超過 40%）
 
 *功能說明：
-- [ ] 1. 點擊開啟相機後，於照片區顯示相機畫面
-- [ ] 2. 提供拍攝按鈕，拍照後顯示照片於畫面中
-- [ ] 3. 照片下方顯示拍攝當下的地理位置（Geolocation）資訊
-- [x] 4. 最後需將應用程式部署至手機進行測試。
+- [x] 1. 點擊開啟相機後，於照片區顯示相機畫面
+- [x] 2. 提供拍攝按鈕，拍照後顯示照片於畫面中
+- [x] 3. 照片下方顯示拍攝當下的地理位置（Geolocation）資訊
+- [ ] 4. 最後需將應用程式部署至手機進行測試。
 
 ## 環境 (Requirements)
 * .Net Core 10
@@ -60,9 +60,9 @@
 </p>
 
 ## ISSUE
-1. 注入週期 => MauiProgram.cs (DI) 還有哪些,除了 AddSingleton、AddTransient 之外。
-2. APP.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
-3. AppShell.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
+- [ ] 1. 注入週期 => MauiProgram.cs (DI) 還有哪些,除了 AddSingleton、AddTransient 之外。
+- [ ] 2. APP.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
+- [ ] 3. AppShell.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
 
 ## 參考連結
 1. https://learn.microsoft.com/zh-tw/dotnet/communitytoolkit/maui/get-started?tabs=CommunityToolkitMauiCamera
