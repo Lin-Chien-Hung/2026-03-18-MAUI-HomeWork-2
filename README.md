@@ -60,7 +60,7 @@
 </p>
 
 ## ISSUE
-* [ ] 1. 注入週期 => MauiProgram.cs (DI) 還有哪些,除了 AddSingleton、AddTransient 之外。
++ [ ] 1. 注入週期 => MauiProgram.cs (DI) 還有哪些,除了 AddSingleton、AddTransient 之外。
 - [ ] 2. APP.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
 - [ ] 3. AppShell.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
 
