@@ -64,10 +64,6 @@
 - [ ] 2. APP.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
 - [ ] 3. AppShell.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
 
-# .NET MAUI 核心架構說明
-
-## 目錄
-
 - [1. MauiProgram.cs (Dependency Injection)](#1-mauiprogramcs-dependency-injection)
 - [2. App.xaml](#2-appxaml)
 - [3. AppShell.xaml](#3-appshellxaml)
