@@ -6,8 +6,6 @@
 - [1. MauiProgram.cs (Dependency Injection)](#1-mauiprogramcs-dependency-injection)
 - [2. App.xaml](#2-appxaml)
 - [3. AppShell.xaml](#3-appshellxaml)
-- [4. 整體架構流程](#4-整體架構流程)
-- [5. 面試重點整理](#5-面試重點整理)
 
 ---
 
