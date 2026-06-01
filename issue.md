@@ -1,3 +1,7 @@
+## ◎ ISSUE
+- [ ] 1. 注入週期 => MauiProgram.cs (DI) 還有哪些,除了 AddSingleton、AddTransient 之外?
+- [ ] 2. APP.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
+- [ ] 3. AppShell.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
 
 - [1. MauiProgram.cs (Dependency Injection)](#1-mauiprogramcs-dependency-injection)
 - [2. App.xaml](#2-appxaml)
