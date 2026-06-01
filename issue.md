@@ -359,7 +359,7 @@ public partial class DetailViewModel
 
 ---
 
-# 4. 面試重點整理
+# 4. 重點整理
 
 ## Q1：DI 有哪些生命週期？
 
