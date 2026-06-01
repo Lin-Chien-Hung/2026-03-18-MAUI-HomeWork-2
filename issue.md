@@ -359,53 +359,7 @@ public partial class DetailViewModel
 
 ---
 
-# 4. 整體架構流程
-
-```text
-MauiProgram.cs
-│
-├─ DI 註冊
-├─ Service 註冊
-├─ ViewModel 註冊
-└─ Page 註冊
-│
-▼
-
-App.xaml
-│
-├─ 全域 Style
-├─ Theme
-├─ Color
-└─ Resource
-│
-▼
-
-App.xaml.cs
-│
-└─ MainPage = AppShell
-│
-▼
-
-AppShell.xaml
-│
-├─ Route
-├─ Navigation
-├─ Flyout
-├─ TabBar
-└─ ShellContent
-│
-▼
-
-Page
-│
-├─ HomePage
-├─ DetailPage
-└─ SettingPage
-```
-
----
-
-# 5. 面試重點整理
+# 4. 面試重點整理
 
 ## Q1：DI 有哪些生命週期？
 
