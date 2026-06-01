@@ -11,20 +11,6 @@
 
 ---
 
-# 1. MauiProgram.cs (Dependency Injection)
-
-`MauiProgram.cs` 是 MAUI 應用程式的啟動設定檔，主要負責：
-
-- 建立 App
-- 註冊 DI (Dependency Injection)
-- 註冊 Fonts
-- 註冊 Services
-- 註冊 ViewModels
-- 註冊 Pages
-- 設定第三方套件
-
----
-
 ## DI 生命週期 (Service Lifetime)
 
 ### AddSingleton
