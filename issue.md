@@ -407,7 +407,7 @@ Navigation Layer
 
 ---
 
-# 一句話記憶法
+# Memmory
 
 ```text
 MauiProgram.cs
