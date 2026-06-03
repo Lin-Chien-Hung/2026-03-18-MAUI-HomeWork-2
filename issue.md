@@ -429,3 +429,4 @@ ViewModel
 Service
 = 商業邏輯
 ```
+& "D:\Program Files (x86)\Microsoft Visual Studio\Shared\Android\android-sdk\cmdline-tools\latest\bin\sdkmanager.bat" --licenses
