@@ -60,9 +60,21 @@
 </p>
 
 ## ◎ ISSUE
-- [ ] 1. 注入週期 => MauiProgram.cs (DI) 還有哪些,除了 AddSingleton、AddTransient 之外?
-- [ ] 2. APP.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
-- [ ] 3. AppShell.xaml 在做什麼事情 => 可以做到那些事情 => 架構是什麼?
+- [ ] 1. .NET MAUI 相依性注入（DI）生命週期
+	- 在 MauiProgram.cs 中進行 DI 註冊時，除了 AddSingleton 與 AddTransient 之外，還有哪些服務生命週期（Service Lifetime）可供使用？
+	- 各生命週期的適用情境、運作方式及差異為何？
+   
+- [ ] 2. App.xaml 的功能與架構
+	- App.xaml 在 .NET MAUI 專案中扮演什麼角色？
+	- 其主要負責哪些功能與初始化工作？
+	- 可以在 App.xaml 中實作哪些內容（例如全域資源、樣式、主題設定等）？
+	- 整體架構與執行流程為何？
+   
+- [ ] 3. AppShell.xaml 的功能與架構
+	- AppShell.xaml 在 .NET MAUI 專案中的用途為何？
+	- 其主要負責哪些功能與導航管理工作？
+	- 可以透過 AppShell.xaml 實現哪些功能（例如 Flyout、TabBar、路由導航等）？
+	- Shell 架構的設計理念及運作流程為何？
 
 ## 參考連結
 1. https://learn.microsoft.com/zh-tw/dotnet/communitytoolkit/maui/get-started?tabs=CommunityToolkitMauiCamera
